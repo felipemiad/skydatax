@@ -2,5 +2,6 @@
   "inicio": { "title": "🏠 Inicio" },
   "servicios": { "title": "🛠️ Servicios" },
   "bolsas": { "title": "⏱️ Bolsas de horas" },
+  "proyectos": { "title": "📁 Proyectos" },
   "contacto": { "title": "📞 Contacto" }
 }
