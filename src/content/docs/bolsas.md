@@ -37,7 +37,7 @@ En **SkyDataX** creemos en la flexibilidad. Por eso, ofrecemos un modelo de cont
 
 ## 📞 ¿Cómo contratar?
 
-1. Escríbenos a [contacto@skydatax.com](mailto:contacto@skydatax.com)
+1. Escríbenos a [johanfelipecortesc@gmail.com](mailto:johanfelipecortesc@gmail.com)
 2. Agenda una llamada gratuita para conocer tus necesidades
 3. Te enviamos una propuesta con el plan ideal
 4. Iniciamos el trabajo de inmediato 🚀
