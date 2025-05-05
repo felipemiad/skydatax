@@ -38,4 +38,4 @@ Aunque somos una empresa nueva, nuestro equipo ha desarrollado soluciones con al
 ---
 
 ¿Quieres una solución parecida para tu organización?  
-👉 [Contáctanos](./contacto) o [agenda una llamada](https://calendly.com/skydatax/30min).
+👉 [Contáctanos](/contacto) o [agenda una llamada](https://calendly.com/skydatax/30min).
